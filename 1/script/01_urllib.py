@@ -11,5 +11,5 @@ web_read_line=response.readline()
 # print(web_read)
 # print(type(response)+'\n')
 # print(response.status)
-
-request.urlretrieve(url=url,filename='baidu.html')
+url='https://www.lgstatic.com/i/image2/M01/62/3C/CgotOV0tROeANdp4AACKU68GAEc723.JPG'
+request.urlretrieve(url=url,filename='lagou.jpg')
