@@ -7,7 +7,9 @@ response = request.urlopen(url=url)
 web_status = response.status
 web_read = response.read()
 web_read_line=response.readline()
-print(web_read_line+b'\n')
-print(web_read)
+# print(web_read_line+b'\n')
+# print(web_read)
 # print(type(response)+'\n')
 # print(response.status)
+
+request.urlretrieve(url=url,filename='baidu.html')
