@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88484b3d-186a-4e65-8fae-31f22a40677d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/script/01_urllib.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/01_urllib.py" afterDir="false" />
-    </list>
+    <list default="true" id="88484b3d-186a-4e65-8fae-31f22a40677d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script/01_urllib.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -24,7 +22,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script/lagou.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -65,8 +63,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="551" />
-    <option name="y" value="90" />
+    <option name="x" value="260" />
     <option name="width" value="1918" />
     <option name="height" value="1017" />
   </component>
@@ -152,15 +149,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563455861013</updated>
-      <workItem from="1563455862645" duration="1928000" />
+      <workItem from="1563455862645" duration="2634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1928000" />
+    <option name="totallyTimeSpent" value="2634000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="551" y="90" width="1918" height="1017" extended-state="0" />
+    <frame x="260" y="0" width="1918" height="1017" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -204,15 +201,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/script/lagou.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/script/01_urllib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/lagou.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
